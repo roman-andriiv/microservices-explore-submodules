@@ -1,0 +1,6 @@
+[submodule "currency-exchange-service"]
+	path = currency-exchange-service
+	url = ../currency-exchange-service
+[submodule "currency-conversion-service"]
+	path = currency-conversion-service
+	url = ../currency-conversion-service
