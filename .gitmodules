@@ -4,6 +4,6 @@
 [submodule "currency-conversion-service"]
 	path = currency-conversion-service
 	url = ../currency-conversion-service
-[submodule "naming-service"]
-	path = naming-service
-	url = ../naming-service
+[submodule "naming-server"]
+	path = naming-server
+	url = ../naming-server
